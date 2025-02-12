@@ -130,6 +130,7 @@ Compare **deep learning architectures**:
 ---
 
 ## **📌 Resources**
+- Using yfinance in Python: https://youtu.be/7wAQCwdvqqo?si=3gv_LvyJYUWTCvgA
 - Kaggle's 'Time Series for Machine Learning' Course: https://www.kaggle.com/learn/time-series
 - Kaggle's 'Intro to Deep Learning' Course: https://www.kaggle.com/learn/intro-to-deep-learning
 - Stock Price Prediction Walktrhough: https://www.projectpro.io/article/stock-price-prediction-using-machine-learning-project/571
