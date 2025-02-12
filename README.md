@@ -23,7 +23,6 @@ This project aims to build a **deep learning-based multi-stock price prediction 
 ├── notebooks/                 # Jupyter notebooks for analysis & model training
 ├── models/                    # Saved trained models
 ├── README.md                  # Project documentation
-├── CONTRIBUTING.md            # Contributing guidelines
 ├── requirements.txt           # Dependencies
 └── .gitignore                 # Ignore unnecessary files
 ```
