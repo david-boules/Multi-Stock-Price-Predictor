@@ -17,18 +17,6 @@ This project aims to build a **deep learning-based multi-stock price prediction 
 
 ---
 
-## **📌 Project Structure**
-```
-├── data/                      # Raw and processed datasets
-├── notebooks/                 # Jupyter notebooks for analysis & model training
-├── models/                    # Saved trained models
-├── README.md                  # Project documentation
-├── requirements.txt           # Dependencies
-└── .gitignore                 # Ignore unnecessary files
-```
-
----
-
 ## **📌 Data Collection & Preprocessing**
 ### **1. Data Sourcing**
 - Select a diverse portfolio of stocks (e.g., FAANG: Facebook, Apple, Amazon, Netflix, Google) and collect **historical stock price data** using **Yahoo Finance API**.
