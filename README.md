@@ -117,18 +117,15 @@ Compare **deep learning architectures**:
 ---
 
 ## **📌 Timeline & Milestones**
-| **Phase** | **Tasks** | **Duration** |
+| **Phase** | **Tasks** |
 |---|---|---|
 | **Phase 1** | Data Collection & Cleaning |
 | **Phase 2** | EDA & Time Series Analysis |
 | **Phase 3** | Feature Engineering |
 | **Phase 4** | Model Development & Training |
-
-Optional Section:
-|---|---|---|
-| **Phase 5** | Backtesting & Evaluation |
-| **Phase 6** | Model Deployment (Streamlit) |
-| **Phase 7** | Report & Documentation |
+| **Phase 5** | Backtesting & Evaluation (optional) |
+| **Phase 6** | Model Deployment via Streamlit (optional) |
+| **Phase 7** | Report & Documentation (optional) |
 
 ---
 
