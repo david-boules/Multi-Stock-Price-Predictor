@@ -126,13 +126,10 @@ Compare **deep learning architectures**:
 | **Phase 4** | Model Development & Training |
 | **Phase 5** | Backtesting & Evaluation (optional) |
 | **Phase 6** | Model Deployment via Streamlit (optional) |
-| **Phase 7** | Report & Documentation (optional) |
 
 ---
 
 ## **📌 Resources**
-- Kaggle's Time Series for Machine Learning Course: https://www.kaggle.com/learn/time-series
+- Kaggle's 'Time Series for Machine Learning' Course: https://www.kaggle.com/learn/time-series
+- Kaggle's 'Intro to Deep Learning' Course: https://www.kaggle.com/learn/intro-to-deep-learning
 - Stock Price Prediction Walktrhough: https://www.projectpro.io/article/stock-price-prediction-using-machine-learning-project/571
-
-## **📌 Contributing**
-Feel free to fork this repository, submit issues, and make pull requests.
