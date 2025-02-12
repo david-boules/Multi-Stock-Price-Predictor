@@ -25,7 +25,6 @@ This project aims to build a **deep learning-based multi-stock price prediction 
 ├── README.md                  # Project documentation
 ├── CONTRIBUTING.md            # Contributing guidelines
 ├── requirements.txt           # Dependencies
-├── config.yaml                # Configurations for the project
 └── .gitignore                 # Ignore unnecessary files
 ```
 
