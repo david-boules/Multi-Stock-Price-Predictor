@@ -11,7 +11,8 @@ This project aims to build a **deep learning-based multi-stock price prediction 
 - Engineer **technical indicators** for better predictive power.
 - Develop a **deep learning model** (LSTM, GRU, or Transformer) for stock price prediction.
 - Evaluate model performance using **metrics like MAE, RMSE, and R-squared**.
-  ***Optional:***
+
+### ***Optional:***
 - Simulate **trading strategies** based on the model’s predictions.
 - Deploy the model via **a Streamlit web app** for real-time predictions.
 
