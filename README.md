@@ -118,7 +118,7 @@ Compare **deep learning architectures**:
 
 ## **📌 Timeline & Milestones**
 | **Phase** | **Tasks** |
-|---|---|---|
+|---|---|
 | **Phase 1** | Data Collection & Cleaning |
 | **Phase 2** | EDA & Time Series Analysis |
 | **Phase 3** | Feature Engineering |
